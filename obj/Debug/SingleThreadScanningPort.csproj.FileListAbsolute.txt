@@ -1,0 +1,10 @@
+G:\VisualStudioProject\SingleThreadScanningPort\bin\Debug\SingleThreadScanningPort.exe.config
+G:\VisualStudioProject\SingleThreadScanningPort\bin\Debug\SingleThreadScanningPort.exe
+G:\VisualStudioProject\SingleThreadScanningPort\bin\Debug\SingleThreadScanningPort.pdb
+G:\VisualStudioProject\SingleThreadScanningPort\obj\Debug\SingleThreadScanningPort.Form1.resources
+G:\VisualStudioProject\SingleThreadScanningPort\obj\Debug\SingleThreadScanningPort.Properties.Resources.resources
+G:\VisualStudioProject\SingleThreadScanningPort\obj\Debug\SingleThreadScanningPort.csproj.GenerateResource.cache
+G:\VisualStudioProject\SingleThreadScanningPort\obj\Debug\SingleThreadScanningPort.csproj.CoreCompileInputs.cache
+G:\VisualStudioProject\SingleThreadScanningPort\obj\Debug\SingleThreadScanningPort.exe
+G:\VisualStudioProject\SingleThreadScanningPort\obj\Debug\SingleThreadScanningPort.pdb
+G:\VisualStudioProject\SingleThreadScanningPort\obj\Debug\SingleThreadScanningPort.csproj.AssemblyReference.cache
